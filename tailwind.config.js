@@ -8,8 +8,8 @@ export default {
     extend: {},
   },
   plugins: [require("daisyui")],
+  // It's for Darl and Day Mode
   daisyui: {
-    //Dark and White Theam
     themes: [
       {
         my_theme: {
